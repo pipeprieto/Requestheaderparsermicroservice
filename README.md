@@ -1,7 +1,7 @@
 # Request Header Parser Microservice
 This .NET Core +  Reactjs(CRA) app executes a GET method to retrieve the ipaddress, language and software used by the one who made the request.
 The result is shown in:
-`https://localhost:7080/api/whoami`
+`https://{your local host}/api/whoami`
 <hr/>
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
